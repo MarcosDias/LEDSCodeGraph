@@ -1,0 +1,11 @@
+#Arquivo da build do maven
+/target
+
+# Arquivos de configuração do eclipse.
+.classpath
+.project
+.settings/
+.idea/
+
+#Arquivos de log do Spring Roo
+log.roo
