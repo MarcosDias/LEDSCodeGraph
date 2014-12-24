@@ -1,4 +1,4 @@
-package model;
+package mdl;
 
 import java.util.ArrayList;
 import java.util.List;
